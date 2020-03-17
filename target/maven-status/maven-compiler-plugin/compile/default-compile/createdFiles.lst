@@ -1,0 +1,7 @@
+controller\AccountsController.class
+util\Resources.class
+model\Role.class
+controller\IndexController.class
+service\UserSessionBean.class
+model\User.class
+service\RoleSingletonBean.class
