@@ -80,7 +80,7 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>4.12</version>
+      <version>4.13.1</version>
       <scope>test</scope>
     </dependency>
     <!-- Arquillian allows you to test enterprise code such as EJBs and Transactional(JTA) 
